@@ -1,0 +1,11 @@
+opencv-python-headless
+easyocr==1.7.1
+transformers==4.24.0
+pandas==1.5.3
+python-Levenshtein==0.12.2
+requests==2.28.1
+beautifulsoup4==4.11.1
+fuzzywuzzy==0.18.0
+pybind11==2.9.0
+torch==2.0.0
+openpyxl
