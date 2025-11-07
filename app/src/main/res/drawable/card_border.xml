@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="rectangle">
+
+
+    <!-- Background color inside the card -->
+    <solid android:color="#FBEFD6" /> <!-- or any background you want -->
+
+
+    <!-- Optional: Rounded corners -->
+    <corners android:radius="0dp" />
+
+</shape>
